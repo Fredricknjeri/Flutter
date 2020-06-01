@@ -1,12 +1,13 @@
 # trip_cost_app
 
-A new Flutter project.
+A simple Flutter project.
 
-## Getting Started
+## About the Application
 
-This project is a starting point for a Flutter application.
+This project is a trip cost calculator. 
+It helps you calculate the amount you will use in your trip for easy planning
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started in Flutter projects:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
